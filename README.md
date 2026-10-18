@@ -6,8 +6,19 @@ I'm curious about technology and enjoy learning by building. My personal project
 
 ## 💼 Professional experience
 
-**Technology Consultant · Scalian**  
-Currently working on a project for Airbus.
+### Technology Consultant · Scalian
+*Current role*
+
+- Working on a project for **Airbus**.
+
+### Software Engineering Intern · Ayesa
+*February 2026 – June 2026 · Madrid, Spain*
+
+- Contributed to the maintenance and development of enterprise banking applications using **COBOL** and **IBM AS/400** systems.
+- Investigated and resolved software incidents in banking systems.
+- Analyzed **SQL** queries and processed data for banking applications.
+- Collaborated with multidisciplinary teams following corporate development standards.
+- Participated in technology solutions for **Banco Mediolanum**.
 
 ## 🚀 Featured projects
 
